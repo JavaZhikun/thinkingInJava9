@@ -21,6 +21,7 @@ public class IfElse {
 		System.out.println(result);
 		test(5, 5);
 		System.out.println(result);
+		test(10,89);
+		System.out.println(result);
 	}
-	
 }
